@@ -74,7 +74,7 @@ export default function Home() {
   const handleClose = () => setOpen(false)  
 
   const mainContainerStyle = {
-    backgroundImage: `url('https://t3.ftcdn.net/jpg/01/81/20/94/360_F_181209420_P2Pa9vacolr2uIOwSJdCq4w5ydtPCAsS.jpg')`,
+    backgroundImage: `url('https://www.simplilearn.com/ice9/free_resources_article_thumb/What_Is_Inventory_Management.jpg')`,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat',
